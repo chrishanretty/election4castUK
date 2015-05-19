@@ -1,0 +1,633 @@
+refno,ShapeFileName,StandingDown,FirstTerm
+1,Aberavon Co Const,1,0
+2,Aberconwy Co Const,0,1
+3,Aberdeen North Burgh Const,1,0
+4,Aberdeen South Burgh Const,0,0
+6,Airdrie and Shotts Co Const,0,1
+7,Aldershot Boro Const,0,0
+8,Aldridge-Brownhills Boro Const,0,0
+9,Altrincham and Sale West Boro Const,0,0
+10,Alyn and Deeside Co Const,0,0
+11,Amber Valley Co Const,0,1
+12,Angus Co Const,0,0
+16,Arfon Co Const,0,0
+17,Argyll and Bute Co Const,0,0
+18,Arundel and South Downs Co Const,0,0
+19,Ashfield Co Const,0,1
+20,Ashford Co Const,0,0
+21,Ashton-under-Lyne Boro Const,1,0
+22,Aylesbury Co Const,0,0
+23,"Ayr, Carrick and Cumnock Co Const",0,0
+26,Banbury Co Const,1,0
+27,Banff and Buchan Co Const,0,1
+28,Barking Boro Const,0,0
+29,Barnsley Central Boro Const,0,0
+30,Barnsley East Co Const,0,0
+31,Barrow and Furness Co Const,0,1
+32,Basildon and Billericay Boro Const,0,0
+34,Basingstoke Boro Const,0,0
+35,Bassetlaw Co Const,0,0
+36,Bath Boro Const,1,0
+37,Batley and Spen Boro Const,1,0
+38,Battersea Boro Const,0,1
+39,Beaconsfield Co Const,0,0
+40,Beckenham Boro Const,0,0
+41,Bedford Boro Const,0,1
+49,Bermondsey and Old Southwark Boro Const,0,0
+50,Berwick-upon-Tweed Co Const,1,0
+51,"Berwickshire, Roxburgh and Selkirk Co Const",0,0
+52,Bethnal Green and Bow Boro Const,0,1
+53,Beverley and Holderness Co Const,0,0
+54,Bexhill and Battle Co Const,1,0
+55,Bexleyheath and Crayford Boro Const,0,0
+56,Birkenhead Boro Const,0,0
+57,"Birmingham, Edgbaston Boro Const",0,0
+58,"Birmingham, Erdington Boro Const",0,1
+59,"Birmingham, Hall Green Boro Const",0,1
+60,"Birmingham, Hodge Hill Boro Const",0,0
+61,"Birmingham, Ladywood Boro Const",0,1
+62,"Birmingham, Northfield Boro Const",0,0
+63,"Birmingham, Perry Barr Boro Const",0,0
+64,"Birmingham, Selly Oak Boro Const",0,0
+65,"Birmingham, Yardley Boro Const",0,0
+66,Bishop Auckland Co Const,0,0
+67,Blackburn Boro Const,1,0
+68,Blackley and Broughton Boro Const,0,0
+69,Blackpool North and Cleveleys Boro Const,0,1
+70,Blackpool South Boro Const,0,0
+71,Blaenau Gwent Co Const,0,1
+72,Blaydon Boro Const,0,0
+73,Blyth Valley Boro Const,0,0
+74,Bognor Regis and Littlehampton Co Const,0,0
+75,Bolsover Co Const,0,0
+76,Bolton North East Boro Const,0,0
+77,Bolton South East Boro Const,0,1
+78,Bolton West Co Const,0,1
+79,Bootle Boro Const,1,0
+80,Boston and Skegness Co Const,1,0
+81,Bosworth Co Const,0,0
+82,Bournemouth East Boro Const,0,0
+83,Bournemouth West Boro Const,0,1
+84,Bracknell Co Const,0,1
+85,Bradford East Boro Const,0,1
+86,Bradford South Boro Const,1,0
+87,Bradford West Boro Const,0,1
+88,Braintree Co Const,1,0
+89,Brecon and Radnorshire Co Const,0,0
+90,Brent Central Boro Const,1,0
+91,Brent North Boro Const,0,0
+92,Brentford and Isleworth Boro Const,0,1
+93,Brentwood and Ongar Co Const,0,0
+94,Bridgend Co Const,0,0
+95,Bridgwater and West Somerset Co Const,0,0
+96,Brigg and Goole Co Const,0,1
+97,"Brighton, Kemptown Boro Const",0,1
+98,"Brighton, Pavilion Boro Const",0,1
+99,Bristol East Boro Const,0,0
+100,Bristol North West Boro Const,0,1
+101,Bristol South Boro Const,1,0
+102,Bristol West Boro Const,0,0
+103,Broadland Co Const,0,0
+104,Bromley and Chislehurst Boro Const,0,0
+105,Bromsgrove Co Const,0,1
+106,Broxbourne Boro Const,0,0
+107,Broxtowe Co Const,0,1
+108,Buckingham Co Const,0,0
+109,Burnley Boro Const,0,1
+110,Burton Co Const,0,1
+111,Bury North Boro Const,0,1
+112,Bury South Boro Const,0,0
+113,Bury St. Edmunds Co Const,1,0
+114,Caerphilly Co Const,0,0
+115,"Caithness, Sutherland and Easter Ross Co Const",0,0
+116,Calder Valley Co Const,0,1
+117,Camberwell and Peckham Boro Const,0,0
+118,Camborne and Redruth Co Const,0,1
+119,Cambridge Boro Const,0,1
+124,Cannock Chase Co Const,1,1
+125,Canterbury Co Const,0,0
+126,Cardiff Central Boro Const,0,0
+127,Cardiff North Boro Const,1,1
+128,Cardiff South and Penarth Boro Const,0,1
+129,Cardiff West Boro Const,0,0
+130,Carlisle Boro Const,0,1
+131,Carmarthen East and Dinefwr Co Const,0,1
+132,Carmarthen West and South Pembrokeshire Co Const,0,1
+133,Carshalton and Wallington Boro Const,0,0
+134,Castle Point Boro Const,0,1
+24,Central Ayrshire Co Const,0,0
+188,Central Devon Co Const,0,1
+547,Central Suffolk and North Ipswich Co Const,0,1
+135,Ceredigion Co Const,0,0
+136,Charnwood Co Const,0,0
+137,Chatham and Aylesford Co Const,0,1
+138,Cheadle Boro Const,0,0
+139,Chelmsford Boro Const,0,0
+140,Chelsea and Fulham Boro Const,0,0
+141,Cheltenham Boro Const,0,0
+142,Chesham and Amersham Co Const,0,0
+144,Chesterfield Boro Const,0,1
+145,Chichester Co Const,0,0
+146,Chingford and Woodford Green Boro Const,0,0
+147,Chippenham Co Const,0,0
+148,Chipping Barnet Boro Const,0,0
+149,Chorley Co Const,0,0
+150,Christchurch Co Const,0,0
+151,Cities of London and Westminster Boro Const,0,0
+143,City of Chester Co Const,0,1
+214,City of Durham Co Const,0,0
+152,Clacton Co Const,0,0
+153,Cleethorpes Co Const,0,1
+154,Clwyd South Co Const,0,1
+155,Clwyd West Co Const,0,0
+156,"Coatbridge, Chryston and Bellshill Burgh Const",0,0
+157,Colchester Boro Const,0,0
+158,Colne Valley Co Const,0,1
+159,Congleton Co Const,0,1
+160,Copeland Co Const,0,0
+161,Corby Co Const,0,1
+165,Coventry North East Boro Const,1,0
+166,Coventry North West Boro Const,0,0
+167,Coventry South Boro Const,0,0
+168,Crawley Boro Const,0,1
+169,Crewe and Nantwich Co Const,0,0
+170,Croydon Central Boro Const,0,1
+171,Croydon North Boro Const,0,1
+172,Croydon South Boro Const,1,0
+173,"Cumbernauld, Kilsyth and Kirkintilloch East Co Const",0,1
+174,Cynon Valley Co Const,1,0
+175,Dagenham and Rainham Boro Const,0,0
+176,Darlington Boro Const,0,1
+177,Dartford Co Const,0,0
+178,Daventry Co Const,0,0
+179,Delyn Co Const,0,0
+180,Denton and Reddish Boro Const,0,0
+181,Derby North Boro Const,0,0
+182,Derby South Boro Const,0,0
+183,Derbyshire Dales Co Const,0,0
+187,Devizes Co Const,0,1
+193,Dewsbury Co Const,0,1
+194,Don Valley Co Const,0,0
+195,Doncaster Central Boro Const,0,0
+196,Doncaster North Co Const,0,0
+201,Dover Co Const,0,1
+204,Dudley North Boro Const,0,0
+205,Dudley South Boro Const,1,1
+206,Dulwich and West Norwood Boro Const,1,0
+207,Dumfries and Galloway Co Const,0,0
+208,"Dumfriesshire, Clydesdale and Tweeddale Co Const",0,0
+211,Dundee East Burgh Const,0,0
+212,Dundee West Burgh Const,1,0
+213,Dunfermline and West Fife Co Const,0,1
+217,Dwyfor Meirionnydd Co Const,1,0
+218,Ealing Central and Acton Boro Const,0,1
+219,Ealing North Boro Const,0,0
+220,"Ealing, Southall Boro Const",0,0
+221,Easington Co Const,0,1
+189,East Devon Co Const,0,0
+209,East Dunbartonshire Co Const,0,0
+222,East Ham Boro Const,0,0
+287,East Hampshire Co Const,0,1
+223,"East Kilbride, Strathaven and Lesmahagow Co Const",0,1
+224,East Lothian Co Const,0,1
+469,East Renfrewshire Co Const,0,0
+552,East Surrey Co Const,0,1
+638,East Worthing and Shoreham Co Const,0,0
+650,East Yorkshire Co Const,0,0
+225,Eastbourne Boro Const,0,1
+226,Eastleigh Boro Const,0,1
+227,Eddisbury Co Const,1,0
+228,Edinburgh East Burgh Const,0,0
+229,Edinburgh North and Leith Burgh Const,0,0
+230,Edinburgh South Burgh Const,0,1
+231,Edinburgh South West Burgh Const,1,0
+232,Edinburgh West Burgh Const,0,0
+233,Edmonton Boro Const,1,0
+234,Ellesmere Port and Neston Co Const,1,0
+235,Elmet and Rothwell Co Const,0,1
+236,Eltham Boro Const,0,0
+237,Enfield North Boro Const,0,1
+238,"Enfield, Southgate Boro Const",0,0
+239,Epping Forest Co Const,0,0
+240,Epsom and Ewell Boro Const,0,0
+241,Erewash Co Const,1,1
+242,Erith and Thamesmead Boro Const,0,1
+243,Esher and Walton Boro Const,0,1
+244,Exeter Boro Const,0,0
+245,Falkirk Co Const,1,0
+246,Fareham Co Const,1,0
+247,Faversham and Mid Kent Co Const,0,0
+248,Feltham and Heston Boro Const,0,1
+251,Filton and Bradley Stoke Co Const,0,1
+252,Finchley and Golders Green Boro Const,0,0
+253,Folkestone and Hythe Co Const,0,1
+254,Forest of Dean Co Const,0,0
+256,Fylde Co Const,0,0
+257,Gainsborough Co Const,0,0
+258,Garston and Halewood Boro Const,0,0
+259,Gateshead Boro Const,0,0
+260,Gedling Co Const,0,0
+261,Gillingham and Rainham Boro Const,0,1
+262,Glasgow Central Burgh Const,0,1
+263,Glasgow East Burgh Const,0,1
+264,Glasgow North Burgh Const,0,0
+265,Glasgow North East Burgh Const,0,0
+266,Glasgow North West Burgh Const,0,0
+267,Glasgow South Burgh Const,0,0
+268,Glasgow South West Burgh Const,0,0
+269,Glenrothes Co Const,1,0
+270,Gloucester Boro Const,0,1
+271,Gordon Co Const,1,0
+272,Gosport Boro Const,0,1
+273,Gower Co Const,1,0
+274,Grantham and Stamford Co Const,0,1
+275,Gravesham Co Const,0,0
+276,Great Grimsby Boro Const,1,0
+277,Great Yarmouth Co Const,0,1
+278,Greenwich and Woolwich Boro Const,1,0
+279,Guildford Co Const,0,0
+280,Hackney North and Stoke Newington Boro Const,0,0
+281,Hackney South and Shoreditch Boro Const,0,0
+282,Halesowen and Rowley Regis Boro Const,0,1
+283,Halifax Boro Const,1,0
+284,Haltemprice and Howden Co Const,0,0
+285,Halton Co Const,0,0
+286,Hammersmith Boro Const,0,0
+290,Hampstead and Kilburn Boro Const,1,0
+291,Harborough Co Const,0,0
+292,Harlow Co Const,0,1
+293,Harrogate and Knaresborough Co Const,0,1
+294,Harrow East Boro Const,0,1
+295,Harrow West Boro Const,0,0
+296,Hartlepool Boro Const,0,0
+297,Harwich and North Essex Co Const,0,0
+298,Hastings and Rye Co Const,0,1
+299,Havant Boro Const,1,0
+300,Hayes and Harlington Boro Const,0,0
+301,Hazel Grove Co Const,1,0
+302,Hemel Hempstead Co Const,0,0
+303,Hemsworth Co Const,0,0
+304,Hendon Boro Const,0,1
+305,Henley Co Const,0,0
+306,Hereford and South Herefordshire Co Const,0,1
+308,Hertford and Stortford Co Const,0,0
+311,Hertsmere Co Const,1,0
+312,Hexham Co Const,0,0
+313,Heywood and Middleton Co Const,0,0
+314,High Peak Co Const,0,1
+315,Hitchin and Harpenden Co Const,0,0
+316,Holborn and St. Pancras Boro Const,0,0
+317,Hornchurch and Upminster Boro Const,0,0
+318,Hornsey and Wood Green Boro Const,0,0
+319,Horsham Co Const,1,0
+320,Houghton and Sunderland South Boro Const,0,1
+321,Hove Boro Const,1,1
+322,Huddersfield Boro Const,0,0
+326,Huntingdon Co Const,0,0
+327,Hyndburn Boro Const,0,0
+328,Ilford North Boro Const,0,0
+329,Ilford South Boro Const,0,0
+330,Inverclyde Co Const,0,1
+331,"Inverness, Nairn, Badenoch and Strathspey Co Const",0,0
+332,Ipswich Boro Const,0,1
+333,Isle of Wight Co Const,0,0
+334,Islington North Boro Const,0,0
+335,Islington South and Finsbury Boro Const,0,0
+336,Islwyn Co Const,0,1
+337,Jarrow Boro Const,0,0
+338,Keighley Co Const,0,1
+339,Kenilworth and Southam Co Const,0,0
+340,Kensington Boro Const,0,0
+341,Kettering Co Const,0,0
+342,Kilmarnock and Loudoun Co Const,0,1
+343,Kingston and Surbiton Boro Const,0,0
+323,Kingston upon Hull East Boro Const,0,1
+324,Kingston upon Hull North Boro Const,0,0
+325,Kingston upon Hull West and Hessle Boro Const,0,0
+344,Kingswood Boro Const,0,1
+345,Kirkcaldy and Cowdenbeath Co Const,1,0
+346,Knowsley Boro Const,0,0
+348,Lanark and Hamilton East Co Const,0,0
+350,Lancaster and Fleetwood Co Const,0,1
+351,Leeds Central Boro Const,0,0
+352,Leeds East Boro Const,1,0
+353,Leeds North East Boro Const,0,0
+354,Leeds North West Boro Const,0,0
+355,Leeds West Boro Const,0,1
+356,Leicester East Boro Const,0,0
+357,Leicester South Boro Const,0,0
+358,Leicester West Boro Const,0,1
+361,Leigh Co Const,0,0
+362,Lewes Co Const,0,0
+364,Lewisham East Boro Const,0,1
+365,Lewisham West and Penge Boro Const,0,0
+363,"Lewisham, Deptford Boro Const",1,0
+366,Leyton and Wanstead Boro Const,0,0
+367,Lichfield Co Const,0,0
+368,Lincoln Boro Const,0,1
+369,Linlithgow and East Falkirk Co Const,0,0
+370,"Liverpool, Riverside Boro Const",0,0
+371,"Liverpool, Walton Boro Const",0,0
+372,"Liverpool, Wavertree Boro Const",0,0
+373,"Liverpool, West Derby Boro Const",0,0
+374,Livingston Co Const,0,0
+375,Llanelli Co Const,0,0
+377,Loughborough Co Const,0,1
+378,Louth and Horncastle Co Const,1,0
+379,Ludlow Co Const,0,0
+380,Luton North Boro Const,0,0
+381,Luton South Boro Const,0,0
+382,Macclesfield Co Const,0,0
+383,Maidenhead Co Const,0,0
+384,Maidstone and The Weald Co Const,0,0
+385,Makerfield Co Const,0,0
+386,Maldon Co Const,0,0
+387,Manchester Central Boro Const,0,1
+388,"Manchester, Gorton Boro Const",0,0
+389,"Manchester, Withington Boro Const",0,0
+390,Mansfield Co Const,0,0
+391,Meon Valley Co Const,0,1
+392,Meriden Co Const,0,0
+393,Merthyr Tydfil and Rhymney Co Const,1,0
+42,Mid Bedfordshire Co Const,0,0
+184,Mid Derbyshire Co Const,0,1
+197,Mid Dorset and North Poole Co Const,1,0
+421,Mid Norfolk Co Const,0,1
+555,Mid Sussex Co Const,0,0
+634,Mid Worcestershire Co Const,1,0
+394,Middlesbrough Boro Const,0,0
+395,Middlesbrough South and East Cleveland Co Const,0,0
+396,Midlothian Co Const,1,0
+397,Milton Keynes North Co Const,0,0
+398,Milton Keynes South Boro Const,0,1
+399,Mitcham and Morden Boro Const,0,0
+400,Mole Valley Co Const,0,0
+401,Monmouth Co Const,0,0
+402,Montgomeryshire Co Const,0,1
+403,Moray Co Const,0,0
+404,Morecambe and Lunesdale Co Const,0,1
+405,Morley and Outwood Co Const,0,0
+406,Motherwell and Wishaw Burgh Const,0,0
+407,Na h-Eileanan an Iar Co Const,0,0
+408,Neath Co Const,1,0
+409,New Forest East Co Const,0,0
+410,New Forest West Co Const,0,0
+411,Newark Co Const,0,0
+412,Newbury Co Const,0,0
+414,Newcastle upon Tyne Central Boro Const,0,1
+415,Newcastle upon Tyne East Boro Const,0,0
+416,Newcastle upon Tyne North Boro Const,0,1
+413,Newcastle-under-Lyme Boro Const,0,0
+417,Newport East Co Const,0,0
+418,Newport West Co Const,0,0
+420,Newton Abbot Co Const,0,1
+426,"Normanton, Pontefract and Castleford Co Const",0,0
+25,North Ayrshire and Arran Co Const,0,0
+162,North Cornwall Co Const,0,0
+190,North Devon Co Const,0,0
+198,North Dorset Co Const,0,0
+215,North Durham Co Const,0,0
+43,North East Bedfordshire Co Const,0,0
+120,North East Cambridgeshire Co Const,0,1
+185,North East Derbyshire Co Const,0,0
+250,North East Fife Co Const,1,0
+288,North East Hampshire Co Const,1,0
+309,North East Hertfordshire Co Const,0,0
+518,North East Somerset Co Const,0,0
+307,North Herefordshire Co Const,0,0
+422,North Norfolk Co Const,0,0
+511,North Shropshire Co Const,0,0
+517,North Somerset Co Const,0,0
+560,North Swindon Co Const,0,1
+567,North Thanet Co Const,0,0
+583,North Tyneside Boro Const,0,0
+602,North Warwickshire Co Const,1,1
+121,North West Cambridgeshire Co Const,0,0
+216,North West Durham Co Const,0,1
+289,North West Hampshire Co Const,1,0
+359,North West Leicestershire Co Const,0,1
+423,North West Norfolk Co Const,0,0
+619,North Wiltshire Co Const,0,0
+427,Northampton North Boro Const,0,1
+428,Northampton South Boro Const,1,0
+430,Norwich North Boro Const,0,0
+431,Norwich South Boro Const,0,1
+432,Nottingham East Boro Const,0,0
+433,Nottingham North Boro Const,0,0
+434,Nottingham South Boro Const,0,0
+435,Nuneaton Co Const,0,1
+436,Ochil and South Perthshire Co Const,0,0
+437,Ogmore Co Const,0,0
+438,Old Bexley and Sidcup Boro Const,0,0
+439,Oldham East and Saddleworth Co Const,0,1
+440,Oldham West and Royton Boro Const,0,0
+441,Orkney and Shetland Co Const,0,0
+442,Orpington Boro Const,0,0
+443,Oxford East Boro Const,0,0
+444,Oxford West and Abingdon Co Const,0,1
+445,Paisley and Renfrewshire North Co Const,0,0
+446,Paisley and Renfrewshire South Co Const,0,0
+447,Pendle Boro Const,0,1
+448,Penistone and Stocksbridge Co Const,0,0
+449,Penrith and The Border Co Const,0,0
+450,Perth and North Perthshire Co Const,0,0
+451,Peterborough Boro Const,0,0
+452,"Plymouth, Moor View Boro Const",0,0
+453,"Plymouth, Sutton and Devonport Boro Const",0,1
+454,Pontypridd Co Const,0,0
+455,Poole Boro Const,0,0
+456,Poplar and Limehouse Boro Const,0,0
+457,Portsmouth North Boro Const,0,1
+458,Portsmouth South Boro Const,1,0
+459,Preseli Pembrokeshire Co Const,0,0
+460,Preston Boro Const,0,0
+461,Pudsey Boro Const,0,1
+462,Putney Boro Const,0,0
+463,Rayleigh and Wickford Co Const,0,0
+464,Reading East Boro Const,0,0
+465,Reading West Co Const,0,1
+466,Redcar Boro Const,1,1
+467,Redditch Co Const,0,1
+468,Reigate Boro Const,0,0
+470,Rhondda Co Const,0,0
+471,Ribble Valley Co Const,0,0
+472,Richmond (Yorks) Co Const,1,0
+473,Richmond Park Boro Const,0,1
+474,Rochdale Co Const,0,0
+475,Rochester and Strood Co Const,0,1
+476,Rochford and Southend East Co Const,0,0
+477,Romford Boro Const,0,0
+478,Romsey and Southampton North Co Const,0,1
+479,"Ross, Skye and Lochaber Co Const",0,0
+480,Rossendale and Darwen Boro Const,0,1
+481,Rother Valley Co Const,0,0
+482,Rotherham Boro Const,0,1
+483,Rugby Co Const,0,1
+484,"Ruislip, Northwood and Pinner Boro Const",0,0
+485,Runnymede and Weybridge Co Const,0,0
+486,Rushcliffe Co Const,0,0
+487,Rutherglen and Hamilton West Burgh Const,0,1
+488,Rutland and Melton Co Const,0,0
+489,Saffron Walden Co Const,0,0
+495,Salford and Eccles Boro Const,1,0
+496,Salisbury Co Const,0,0
+497,Scarborough and Whitby Co Const,0,0
+498,Scunthorpe Co Const,0,0
+499,Sedgefield Co Const,0,0
+500,Sefton Central Co Const,0,1
+501,Selby and Ainsty Co Const,0,0
+502,Sevenoaks Co Const,0,0
+504,Sheffield Central Boro Const,0,0
+507,Sheffield South East Boro Const,0,0
+503,"Sheffield, Brightside and Hillsborough Boro Const",1,0
+505,"Sheffield, Hallam Co Const",0,0
+506,"Sheffield, Heeley Boro Const",1,0
+508,Sherwood Co Const,0,1
+509,Shipley Co Const,0,0
+510,Shrewsbury and Atcham Co Const,0,0
+512,Sittingbourne and Sheppey Co Const,0,0
+513,Skipton and Ripon Co Const,0,0
+514,Sleaford and North Hykeham Co Const,0,0
+515,Slough Boro Const,0,0
+516,Solihull Boro Const,0,0
+519,Somerton and Frome Co Const,1,0
+33,South Basildon and East Thurrock Co Const,0,1
+122,South Cambridgeshire Co Const,1,0
+186,South Derbyshire Co Const,0,1
+199,South Dorset Co Const,0,1
+123,South East Cambridgeshire Co Const,1,0
+163,South East Cornwall Co Const,0,1
+520,South Holland and The Deepings Co Const,0,0
+360,South Leicestershire Co Const,1,0
+424,South Norfolk Co Const,0,0
+429,South Northamptonshire Co Const,0,0
+521,South Ribble Co Const,1,1
+522,South Shields Boro Const,0,1
+530,South Staffordshire Co Const,0,1
+549,South Suffolk Co Const,1,0
+561,South Swindon Co Const,0,1
+568,South Thanet Co Const,1,1
+44,South West Bedfordshire Co Const,0,0
+191,South West Devon Co Const,0,0
+310,South West Hertfordshire Co Const,0,0
+425,South West Norfolk Co Const,0,0
+554,South West Surrey Co Const,0,0
+620,South West Wiltshire Co Const,0,0
+523,"Southampton, Itchen Boro Const",1,0
+524,"Southampton, Test Boro Const",0,0
+525,Southend West Boro Const,0,0
+526,Southport Boro Const,0,0
+527,Spelthorne Boro Const,0,1
+490,St. Albans Co Const,0,0
+491,St. Austell and Newquay Co Const,0,0
+492,St. Helens North Boro Const,1,0
+493,St. Helens South and Whiston Boro Const,1,0
+494,St. Ives Co Const,0,0
+528,Stafford Co Const,0,1
+529,Staffordshire Moorlands Co Const,0,1
+531,Stalybridge and Hyde Co Const,0,0
+532,Stevenage Co Const,0,1
+533,Stirling Co Const,1,0
+534,Stockport Boro Const,0,0
+535,Stockton North Boro Const,0,0
+536,Stockton South Boro Const,0,1
+537,Stoke-on-Trent Central Boro Const,0,1
+538,Stoke-on-Trent North Boro Const,1,0
+539,Stoke-on-Trent South Boro Const,0,0
+540,Stone Co Const,0,0
+541,Stourbridge Boro Const,0,1
+543,Stratford-on-Avon Co Const,0,1
+544,Streatham Boro Const,0,1
+545,Stretford and Urmston Boro Const,0,0
+546,Stroud Co Const,0,1
+548,Suffolk Coastal Co Const,0,0
+551,Sunderland Central Boro Const,0,1
+553,Surrey Heath Co Const,0,0
+556,Sutton and Cheam Boro Const,0,0
+557,Sutton Coldfield Boro Const,0,0
+558,Swansea East Boro Const,1,0
+559,Swansea West Boro Const,0,1
+562,Tamworth Co Const,0,1
+563,Tatton Co Const,0,0
+564,Taunton Deane Co Const,1,0
+565,Telford Boro Const,0,0
+566,Tewkesbury Co Const,0,0
+164,The Cotswolds Co Const,0,0
+640,The Wrekin Co Const,0,0
+569,Thirsk and Malton Co Const,0,0
+570,Thornbury and Yate Co Const,0,0
+571,Thurrock Boro Const,0,1
+572,Tiverton and Honiton Co Const,0,1
+573,Tonbridge and Malling Co Const,1,0
+574,Tooting Boro Const,0,0
+575,Torbay Boro Const,0,0
+576,Torfaen Co Const,1,0
+192,Torridge and West Devon Co Const,0,0
+577,Totnes Co Const,0,1
+578,Tottenham Boro Const,0,0
+579,Truro and Falmouth Co Const,0,1
+580,Tunbridge Wells Co Const,0,0
+581,Twickenham Boro Const,0,0
+582,Tynemouth Boro Const,0,0
+587,Uxbridge and South Ruislip Boro Const,1,0
+588,Vale of Clwyd Co Const,0,0
+589,Vale of Glamorgan Co Const,0,1
+590,Vauxhall Boro Const,0,0
+591,Wakefield Co Const,0,0
+592,Wallasey Boro Const,0,0
+593,Walsall North Boro Const,0,0
+594,Walsall South Boro Const,0,1
+595,Walthamstow Boro Const,0,1
+596,Wansbeck Co Const,0,1
+597,Wantage Co Const,0,0
+598,Warley Boro Const,0,0
+599,Warrington North Boro Const,0,0
+600,Warrington South Boro Const,0,0
+601,Warwick and Leamington Boro Const,0,1
+603,Washington and Sunderland West Boro Const,0,0
+604,Watford Boro Const,0,1
+605,Waveney Co Const,0,1
+606,Wealden Co Const,1,0
+607,Weaver Vale Co Const,0,1
+608,Wellingborough Co Const,0,0
+609,Wells Co Const,0,1
+610,Welwyn Hatfield Co Const,0,0
+611,Wentworth and Dearne Co Const,0,0
+5,West Aberdeenshire and Kincardine Co Const,0,0
+612,West Bromwich East Boro Const,0,0
+613,West Bromwich West Boro Const,0,0
+200,West Dorset Co Const,0,0
+210,West Dunbartonshire Co Const,0,1
+614,West Ham Boro Const,0,0
+349,West Lancashire Co Const,0,0
+550,West Suffolk Co Const,0,1
+635,West Worcestershire Co Const,0,1
+615,Westminster North Boro Const,0,0
+616,Westmorland and Lonsdale Co Const,0,0
+617,Weston-Super-Mare Co Const,0,0
+618,Wigan Co Const,0,1
+621,Wimbledon Boro Const,0,0
+622,Winchester Co Const,0,1
+623,Windsor Co Const,0,0
+624,Wirral South Co Const,0,0
+625,Wirral West Co Const,0,1
+626,Witham Co Const,0,1
+627,Witney Co Const,0,0
+628,Woking Co Const,0,1
+629,Wokingham Co Const,0,0
+630,Wolverhampton North East Boro Const,0,1
+631,Wolverhampton South East Boro Const,0,0
+632,Wolverhampton South West Boro Const,0,1
+633,Worcester Boro Const,0,1
+636,Workington Co Const,1,0
+637,Worsley and Eccles South Co Const,0,0
+639,Worthing West Boro Const,0,0
+641,Wrexham Co Const,0,0
+642,Wycombe Co Const,0,1
+643,Wyre and Preston North Co Const,0,0
+644,Wyre Forest Co Const,0,1
+645,Wythenshawe and Sale East Boro Const,0,0
+646,Yeovil Co Const,0,0
+647,Ynys Mon Co Const,0,0
+648,York Central Boro Const,1,0
+649,York Outer Co Const,0,1
